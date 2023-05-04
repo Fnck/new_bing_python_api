@@ -17,3 +17,6 @@ POST - sample request data:
 just submit your question to new bing server
 
 ### Hello and any question is welcomed
+
+# License
+GNU General Public License v3.0
